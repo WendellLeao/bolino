@@ -1,5 +1,6 @@
-# Roguelike Shooter
-Roguelike Shooter is a fast-paced action game where you blast through five floors of enemies, with five stages per floor. Fight, upgrade, and adapt as you push toward the final boss. Every run is a fresh challenge—can you survive the chaos?
+# Bolino
+
+Bolino is a fast-paced top-down roguelike shooter. Guide the little round hero through five floors of relentless enemies, five stages deep each, picking up upgrades and reshaping your build on the fly as you push toward the final boss. Every run shuffles the chaos differently, so no two descents ever play the same.
 
 Devlog: https://youtu.be/T4mpVSwc6bA
 
